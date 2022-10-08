@@ -1,0 +1,1 @@
+<% tp.file.move("/3/" + (await tp.system.suggester(["Có mối quan hệ hợp tác"], ["361 Có mối quan hệ hợp tác"]))  + "/" + tp.file.title) %>

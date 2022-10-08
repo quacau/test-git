@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "baba04dddcc7159b",
+    "type": "split",
+    "children": [
+      {
+        "id": "99d93b9a433b823f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "zzzzzz.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d866fecceb8b7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ba7300f67f4e1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5fc69f1e0f987f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "08c10f4ebe761ac2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b602ba3f2e5015e4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "837e09f6eb627a29",
+    "type": "split",
+    "children": [
+      {
+        "id": "403d49b8d1b1f36f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "238c0c975fe59a97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "zzzzzz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3b3c71923067b38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zzzzzz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "316b7d3037d78b6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8203ec97d391cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zzzzzz.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "99d93b9a433b823f",
+  "lastOpenFiles": [
+    "Template/suggester.md",
+    "Template/false.md",
+    "brands/Honda.md",
+    "brands/Audi.md",
+    "A/a2.md",
+    "A/multiple words/Untitled database.md",
+    "3/362 Có nói chuyện với nhau/PFLAG.md",
+    "3/362 Có nói chuyện với nhau/Mạng lưới Tròn Lành.md",
+    "Template/New folder/fdsfsdf.md",
+    "zzzzzz.md"
+  ]
+}
