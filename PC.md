@@ -1,4 +1,4 @@
 | Device | .git user | Windows credential | Time  |
 | ------ | --------- | ------------------ | ----- |
 | PC     | quacau    | quacau             | 22:28 |
-| PC     | quacau    | quacau             | @time |
+| PC     | quacau    | quacau             | 22:32 |
