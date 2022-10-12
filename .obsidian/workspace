@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PC.md",
+            "file": "COnflict.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC.md",
+                "file": "COnflict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC.md",
+                "file": "COnflict.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC.md"
+                "file": "COnflict.md"
               }
             }
           }
@@ -131,8 +131,9 @@
   "active": "d5bfdef84c0f4dd4",
   "lastOpenFiles": [
     "zzzzzz.md",
-    "3/362 Có nói chuyện với nhau/Zeal.md",
     "PC.md",
+    "COnflict.md",
+    "3/362 Có nói chuyện với nhau/Zeal.md",
     "Nhé git.md"
   ]
 }
