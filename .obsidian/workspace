@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Big phone.md",
+            "file": "PC.md",
             "mode": "source",
             "source": false
           }
@@ -19,106 +19,121 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9a55c91ef2ec3128",
-    "type": "mobile-drawer",
+    "id": "2f8ed2215695db7f",
+    "type": "split",
     "children": [
       {
-        "id": "200c99dff3a12a7a",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {}
-        }
-      },
-      {
-        "id": "92114e1494e25a3d",
-        "type": "leaf",
-        "state": {
-          "type": "search",
-          "state": {
-            "query": "",
-            "matchingCase": false,
-            "explainSearch": false,
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical"
+        "id": "01256bf8687eb63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa5526a5aa67fb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1a60f21ecc883a23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4c4a801193cdec0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "024e34198c4491d9",
-        "type": "leaf",
-        "state": {
-          "type": "tag",
-          "state": {
-            "sortOrder": "frequency",
-            "useHierarchy": true
-          }
-        }
-      },
-      {
-        "id": "c5248d7bd556d051",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300
   },
   "right": {
-    "id": "45376ad57788cf92",
-    "type": "mobile-drawer",
+    "id": "a0d286fc249eb819",
+    "type": "split",
     "children": [
       {
-        "id": "2424c1ac21d300c1",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Big phone.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "0e403d5a5ba086bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87a8f653e3a71ddc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75780c27675d2a6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37d36a08506e49b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7ce29e3bf62e6ae1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PC.md"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "8b39b836e8d2a283",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Big phone.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "f13f8f7f13385791",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "Big phone.md"
-          }
-        }
+        ]
       }
     ],
-    "currentTab": 0
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "active": "d5bfdef84c0f4dd4",
   "lastOpenFiles": [
+    "Big phone.md",
     "PC.md",
     "Nhé git.md",
     "COnflict.md",
-    "Big phone.md",
     "3/362 Có nói chuyện với nhau/Zeal.md"
   ]
 }
