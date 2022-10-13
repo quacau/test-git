@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "token.md",
+            "file": "PC2.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "token.md",
+                "file": "PC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "token.md",
+                "file": "PC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "token.md"
+                "file": "PC2.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "d5bfdef84c0f4dd4",
   "lastOpenFiles": [
-    "PC2.md",
     "PC.md",
+    "Big phone.md",
+    "token.md",
+    "PC2.md",
     "Nhé git.md",
     "COnflict.md",
     "zzzzzz.md",
