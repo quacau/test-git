@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PC.md",
+            "file": "Big phone.md",
             "mode": "source",
             "source": false
           }
@@ -19,121 +19,106 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "223f40afe3c1f334",
-    "type": "split",
+    "id": "9a55c91ef2ec3128",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "134b318b4f3e2175",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "58128c3eb585af55",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "7a0ceeb80eef4f48",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "6cc577c42261d2b0",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "200c99dff3a12a7a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "92114e1494e25a3d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "024e34198c4491d9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c5248d7bd556d051",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "e0b30fd297b5b252",
-    "type": "split",
+    "id": "45376ad57788cf92",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "742ae339f72854e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa0deef6a36d60c8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "PC.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "306b525785b659fb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "PC.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "387c0f681e1c9bf5",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "28c25a03a24d10c5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "PC.md"
-              }
-            }
+        "id": "2424c1ac21d300c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Big phone.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "8b39b836e8d2a283",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Big phone.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f13f8f7f13385791",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Big phone.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "d5bfdef84c0f4dd4",
   "lastOpenFiles": [
+    "PC.md",
     "Nhé git.md",
     "COnflict.md",
-    "PC.md",
-    "zzzzzz.md",
+    "Big phone.md",
     "3/362 Có nói chuyện với nhau/Zeal.md"
   ]
 }
