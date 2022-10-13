@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f8ed2215695db7f",
+    "id": "223f40afe3c1f334",
     "type": "split",
     "children": [
       {
-        "id": "01256bf8687eb63f",
+        "id": "134b318b4f3e2175",
         "type": "tabs",
         "children": [
           {
-            "id": "aaa5526a5aa67fb1",
+            "id": "58128c3eb585af55",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "1a60f21ecc883a23",
+            "id": "7a0ceeb80eef4f48",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "b4c4a801193cdec0",
+            "id": "6cc577c42261d2b0",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,15 +64,15 @@
     "width": 300
   },
   "right": {
-    "id": "a0d286fc249eb819",
+    "id": "e0b30fd297b5b252",
     "type": "split",
     "children": [
       {
-        "id": "0e403d5a5ba086bf",
+        "id": "742ae339f72854e8",
         "type": "tabs",
         "children": [
           {
-            "id": "87a8f653e3a71ddc",
+            "id": "fa0deef6a36d60c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "75780c27675d2a6a",
+            "id": "306b525785b659fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -101,7 +101,7 @@
             }
           },
           {
-            "id": "37d36a08506e49b5",
+            "id": "387c0f681e1c9bf5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,7 +112,7 @@
             }
           },
           {
-            "id": "7ce29e3bf62e6ae1",
+            "id": "28c25a03a24d10c5",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,9 +131,9 @@
   "active": "d5bfdef84c0f4dd4",
   "lastOpenFiles": [
     "PC.md",
-    "Big phone.md",
     "Nhé git.md",
     "COnflict.md",
+    "zzzzzz.md",
     "3/362 Có nói chuyện với nhau/Zeal.md"
   ]
 }
